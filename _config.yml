@@ -1,2 +1,3 @@
 name: Ram Ridhan, Cool guy
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
